@@ -13,5 +13,5 @@ categories:
     labels:
       - documentation
 change-template: '- $TITLE by @$AUTHOR'
-change-title-escapes: '\\<*_i&'
+change-title-escapes: '\\<*_&'
 
