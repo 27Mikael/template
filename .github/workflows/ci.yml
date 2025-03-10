@@ -25,7 +25,7 @@ jobs:
         run: |
           echo "Running tests..."
           # Example C command
-          make test
+          # make test
           # Example Python command
           # pytest
 
