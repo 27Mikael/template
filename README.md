@@ -18,9 +18,10 @@ A brief intro about your project. What does it do? Why is it cool?
 
 ---
 
-## 🚀 Installation  
+## 🚀 Installation
+---
 
-```bash
+```
 # Clone this repository
 git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
 
@@ -29,19 +30,21 @@ cd YOUR_REPO
 
 # Install dependencies (if applicable)
 make install  # or `npm install` / `pip install -r requirements.txt`
-🔥 Contributors
+```
+
+## 🔥 Contributors
 Thanks to these amazing contributors:
 
 <!-- Auto-updated contributor list --> <a href="https://github.com/YOUR_USERNAME/YOUR_REPO/graphs/contributors"> <img src="https://contrib.rocks/image?repo=YOUR_USERNAME/YOUR_REPO" /> </a>
 This section is auto-updated using contrib.rocks
 
-📜 Changelog
+## 📜 Changelog
 <details> <summary>Click to expand</summary> <!-- Auto-generated changelog --> <ul> <li><strong>[v1.0.0]</strong> - Initial release 🚀</li> <li><strong>[v1.1.0]</strong> - Added new feature ✨</li> <li><strong>[v1.2.0]</strong> - Bug fixes and improvements 🛠️</li> </ul> </details>
 
-📄 License
+## 📄 License
 This project is licensed under the MIT License – see the LICENSE file for details.
 
-⚡ Stay Connected
+## ⚡ Stay Connected
 Follow for updates:
 
 📌 Twitter: @YourTwitterHandle
